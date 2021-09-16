@@ -12,9 +12,9 @@
 
 各章のノートブックがあります。また、それぞれのノートブックはGoogle Colaboratoryを使いブラウザで実行できます。
 
-- [2章のサンプルコード](https://github.com/oreilly-japan/ml-security-jp/blob/master/ch02/Chapter2.ipynb)/[Google Colabで開く](https://colab.research.google.com/github.com/oreilly-japan/ml-security-jp/blob/master/ch02/Chapter2.ipynb)
+- [2章のサンプルコード](https://github.com/oreilly-japan/ml-security-jp/blob/master/ch02/Chapter2.ipynb)/[Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-security-jp/blob/master/ch02/Chapter2.ipynb)
 
-- [3章のサンプルコード](https://github.com/oreilly-japan/ml-security-jp/blob/master/ch03/Chapter3.ipynb)/[Google Colabで開く](https://colab.research.google.com/github.com/oreilly-japan/ml-security-jp/blob/master/ch03/Chapter3.ipynb)
+- [3章のサンプルコード](https://github.com/oreilly-japan/ml-security-jp/blob/master/ch03/Chapter3.ipynb)/[Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-security-jp/blob/master/ch03/Chapter3.ipynb)
 
 ## 正誤表
 

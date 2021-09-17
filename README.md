@@ -24,9 +24,9 @@
 
 - [7章のサンプルコード](https://github.com/oreilly-japan/ml-security-jp/blob/master/ch07/Chapter7.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-security-jp/blob/master/ch07/Chapter7.ipynb)
 
-- [8章のサンプルコード](https://github.com/oreilly-japan/ml-security-jp/blob/master/ch08/Chapter8.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-security-jp/blob/master/ch05/Chapter5.ipynb)
+- [8章のサンプルコード](https://github.com/oreilly-japan/ml-security-jp/blob/master/ch08/Chapter8.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-security-jp/blob/master/ch08/Chapter8.ipynb)
 
-- [9章のサンプルコード](https://github.com/oreilly-japan/ml-security-jp/blob/master/ch09/Chapter9.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-security-jp/blob/master/ch05/Chapter5.ipynb)
+- [9章のサンプルコード](https://github.com/oreilly-japan/ml-security-jp/blob/master/ch09/Chapter9.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-security-jp/blob/master/ch09/Chapter9.ipynb)
 
 
 

@@ -40,8 +40,20 @@
 
 - [9章のサンプルコード](https://github.com/oreilly-japan/ml-security-jp/blob/master/ch09/Chapter9.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-security-jp/blob/master/ch09/Chapter9.ipynb)
 
-
-
 ## 正誤表
 
-まだありません。誤植など間違いを見つけた方は、japan@oreilly.co.jpまでお知らせください。
+下記の誤りがありました。お詫びして訂正いたします。
+
+本ページに掲載されていない誤植など間違いを見つけた方は、japan@oreilly.co.jpまでお知らせください。
+
+### 第1刷
+
+#### ■2章 P.21 下から7行目
+**誤**
+```
+手動で調整していく方法は、チューニングツールの仕様に比べて
+```
+**正**
+```
+手動で調整していく方法は、チューニングツールの使用に比べて
+```

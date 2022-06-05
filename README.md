@@ -67,3 +67,14 @@
 ```
 最小値（Minimum）はゼロ、最大値（Maximum）は26、
 ```
+
+
+#### ■5章 P.139 1行目
+**誤**
+```
+!pip install pigeonXT-jupyter
+```
+**正**
+```
+!pip install pigeonXT-jupyter==0.4.1
+```
